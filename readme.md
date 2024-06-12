@@ -6,7 +6,9 @@ run “docker-compose up” in terminal
 go to the jupyterlab: “http://192.168.99.102:10000”
     http://localhost:10000/tree
 get the token shown in terminal
-set the password by adding the token
+set the password by adding the token and new pswd
 login success!
 
-adding
+After the container is created
+    docker-compose start
+    docker-compose stop
