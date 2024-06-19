@@ -2,7 +2,7 @@ Original video link https://www.codehamster.com/codes/python/install-jupyterlab-
 
 * make a directory
 * download the “docker-compose.yml” file into this directory
-* run “docker-compose up” in terminal
+* run “docker-compose up” in terminal (do it from the created folder)
 * go to the jupyterlab: “http://192.168.99.102:10000”
     * http://localhost:10000/tree
 * If it is your first exec:
